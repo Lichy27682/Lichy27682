@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">Greetings! I am Lichy &#x1F3A9;</h1>
 
-<!--
-**Lichy27682/Lichy27682** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- &#x1F4D6; I’m currently studying at **the School of Mathematical Sciences of USTC** <img src="image/SMS-USTC.jpeg" height="25" alt="SMS of USTC">  
 
-Here are some ideas to get you started:
+- &#x1F3F7;&#xFE0F; I’m currently learning **Computer Graphics**, a branch of Computational Mathematics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- &#x1F3CA; I love sports like swimming, taekwondo, badminton, etc.
+
+#### &#x1F4E7; Contact with me:
+
+- &#x1F4EB;Email: lcy27682@163.com
+
+#### &#x1F4BB; Languages and Tools:
+
+<img src="image/c.png" height="50" alt="C">
+<img src="image/cpp.png" height="50" alt="C++">
+<img src="image/python.jpg" height=50 alt="Python">
+<img src="image/html.png" height=50 alt="HTML">
+<img src="image/LaTeX.png" height=50 alt="LaTeX">
+<img src="image/sql.png" height=50 alt="SQL">
+<img src="image/Visual_Studio_Code.png" height=50 alt="VS Code">
+<img src="image/Cmake.png" height=50 alt="CMake">
+<img src="image/matlab.jpeg" height=50 alt="MATLAB">
+<img src="image/mathematica.jpg" height=50 alt="Mathematica">
