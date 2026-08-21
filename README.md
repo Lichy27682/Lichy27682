@@ -12,13 +12,4 @@
 
 #### &#x1F4BB; Languages and Tools:
 
-<img src="image/c.png" height="50" alt="C">
-<img src="image/cpp.png" height="50" alt="C++">
-<img src="image/python.jpg" height=50 alt="Python">
-<img src="image/html.png" height=50 alt="HTML">
-<img src="image/LaTeX.png" height=50 alt="LaTeX">
-<img src="image/sql.png" height=50 alt="SQL">
-<img src="image/Visual_Studio_Code.png" height=50 alt="VS Code">
-<img src="image/Cmake.png" height=50 alt="CMake">
-<img src="image/matlab.jpeg" height=50 alt="MATLAB">
-<img src="image/mathematica.jpg" height=50 alt="Mathematica">
+<img src="image/c.png" height="50" alt="C"> <img src="image/cpp.png" height="50" alt="C++"> <img src="image/python.jpg" height=50 alt="Python"> <img src="image/html.png" height=50 alt="HTML"> <img src="image/LaTeX.png" height=50 alt="LaTeX"> <img src="image/sql.png" height=50 alt="SQL"> <img src="image/Visual_Studio_Code.png" height=50 alt="VS Code"> <img src="image/Cmake.png" height=50 alt="CMake"> <img src="image/matlab.jpeg" height=50 alt="MATLAB"> <img src="image/mathematica.jpg" height=50 alt="Mathematica">
